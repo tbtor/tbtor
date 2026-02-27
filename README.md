@@ -16,7 +16,7 @@
 - **Notion**: データベース作成、オートメーション  
 - **Google Workspace**: 日常業務で利用。
 - **Python、JavaScript、GAS、**：日常業務を自動化するために利用。
-- **その他AIツール**：Claude code、Dify、n8n、ローカルLLM
+- **その他AIツール**：Claude code、Dify、n8n、OpenClawなど
 
 ## 職務経歴（本業）
 
