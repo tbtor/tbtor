@@ -14,8 +14,8 @@
 
 - **Slack**: コミュニケーション、Bot作成  
 - **Notion**: データベース作成、オートメーション  
-- **Google Workspace**: 日常業務で利用。App Scriptを活用した自動化
-- **Python**：日常業務を自動化するために利用。
+- **Google Workspace**: 日常業務で利用。
+- **Python、JavaScript、GAS、**：日常業務を自動化するために利用。
 - **その他AIツール**：Claude code、Dify、n8n、ローカルLLM
 
 ## 職務経歴（本業）
